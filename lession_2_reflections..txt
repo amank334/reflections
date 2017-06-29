@@ -1,0 +1,5 @@
+What happens when u inialize a repository why do you need to do it?
+
+When we initialise a repository then a hidden directory named .git is created .we need to initialise a 
+repository because without initialising we will not able to run any git command in that directory and file  
+file of that directory as the directory is not a git directory.
